@@ -5,7 +5,7 @@ Art Class has officially shut down and stopped development as of March 2nd, 2025
   <img src="public/assets/images/icon.png" />
   <h1>Art Class v4</h1>
 </div>
-A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
+A website with tons of games, apps, built-in , emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
 
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/art-class/v4)
